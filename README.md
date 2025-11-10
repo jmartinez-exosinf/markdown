@@ -1,0 +1,7 @@
+# MarkDown
+
+## [Texto en Negritas y Cursivas](https://github.com/jmartinez-exosinf/markdown/blob/5bf5d5306859454ad30cbc312fbfd070f05ff6d3/texto-en-negritas.md)
+Markdown te permite aplicar formato al texto para resaltar información importante o enfatizar palabras clave. 
+
+## [Uso de Bloques de Código](https://github.com/jmartinez-exosinf/markdown/blob/da149e2da3962300b7f021508fa48126fc12732f/bloque-de-codigo.md)
+Cuando estás documentando código en Markdown, es muy útil mostrarlo con formato especial para que sea más legible. Esto se logra usando bloques de código.
