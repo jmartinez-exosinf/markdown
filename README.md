@@ -8,3 +8,6 @@ Cuando estás documentando código en Markdown, es muy útil mostrarlo con forma
 
 ## [✨ Comentarios Invisibles](comentarios.md)
 Aunque Markdown no tiene una sintaxis oficial para comentarios, puedes usar HTML para insertar notas que **no se mostrarán en la vista renderizada**, pero sí en el código fuente.
+
+## [📊 Cómo Crear Tablas en Markdown](tutorial_tablas_markdown.md)
+Las tablas en Markdown permiten presentar información organizada y fácil de leer, ideal para mostrar datos estructurados en guías, reportes o documentación técnica.
