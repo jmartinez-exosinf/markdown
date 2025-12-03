@@ -5,3 +5,6 @@ Markdown te permite aplicar formato al texto para resaltar información importan
 
 ## [Uso de Bloques de Código](https://github.com/jmartinez-exosinf/markdown/blob/da149e2da3962300b7f021508fa48126fc12732f/bloque-de-codigo.md)
 Cuando estás documentando código en Markdown, es muy útil mostrarlo con formato especial para que sea más legible. Esto se logra usando bloques de código.
+
+## [✨ Comentarios Invisibles](comentarios.md)
+Aunque Markdown no tiene una sintaxis oficial para comentarios, puedes usar HTML para insertar notas que **no se mostrarán en la vista renderizada**, pero sí en el código fuente.
