@@ -28,3 +28,5 @@ Usa encabezados jerárquicos para estructurar tu contenido en Markdown. Esto mej
 ```markdown
 ### Subsección 2.1
 ```
+
+> Última Revisión: Lunes, 29 de Diciembre de 2025
