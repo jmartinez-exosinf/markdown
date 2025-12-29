@@ -1,4 +1,4 @@
-# ✅ Tutorial: Cómo Usar Listas de Tareas en Markdown
+# ✅ Cómo Usar Listas de Tareas en Markdown
 
 Las listas de tareas (checkboxes) en Markdown son ideales para gestionar pendientes, documentar procesos o crear checklists en proyectos.
 
