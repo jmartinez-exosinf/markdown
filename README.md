@@ -11,3 +11,6 @@ Aunque Markdown no tiene una sintaxis oficial para comentarios, puedes usar HTML
 
 ## [📊 Cómo Crear Tablas en Markdown](tutorial_tablas_markdown.md)
 Las tablas en Markdown permiten presentar información organizada y fácil de leer, ideal para mostrar datos estructurados en guías, reportes o documentación técnica.
+
+## [✅ Cómo Usar Listas de Tareas en Markdown](listas-de-tareas.md)
+Las listas de tareas (checkboxes) en Markdown son ideales para gestionar pendientes, documentar procesos o crear checklists en proyectos.
